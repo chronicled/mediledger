@@ -7,8 +7,5 @@ Mediledger website: https://www.mediledger.com
 
 ## Documentation
 
-### Smart contracts
+### [Smart contracts](https://chronicled.github.io/mediledger/CompanyDirectoryInterface)
 
-[Company Directory](./docs/CompanyDirectoryInterface/)
-
-[GTIN Directory](./docs/GtinDirectoryInterface/)
