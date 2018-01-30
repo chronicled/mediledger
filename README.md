@@ -7,5 +7,5 @@ Mediledger website: https://www.mediledger.com
 
 ## Documentation
 
-### [Smart contracts](https://chronicled.github.io/mediledger/CompanyDirectoryInterface)
+### [Smart contracts](https://chronicled.github.io/mediledger/docs/CompanyDirectoryInterface/)
 
