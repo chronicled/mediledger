@@ -2,7 +2,7 @@
 
 ### Open source protocol for decentralized SGTIN verification and GTIN ownership transfer
 
-A blockchain-enabled and low latency solution for the pharmaceutical industry to make resaleable returns compliant with the 2019 milestone for DSCSA regulations.
+A blockchain-enabled low latency solution for the pharmaceutical industry to make resaleable returns compliant with the DSCSA regulations.
 
 ## Documentation
 * [Overview](https://github.com/chronicled/mediledger/blob/master/overview/README.md)
