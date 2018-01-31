@@ -8,7 +8,7 @@
 
 * [Smart contracts](https://chronicled.github.io/mediledger/docs/CompanyDirectoryInterface/)
 
-* [Smart contracts usage example](https://github.com/chronicled/mediledger/blob/master/examples/Smart%20Contracts.md)
+* [Smart contracts usage example](https://github.com/chronicled/mediledger/blob/master/examples/README.md)
 
 ## Useful Links
 
