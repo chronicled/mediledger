@@ -1,4 +1,4 @@
-<img src="mediledger.png" width="60%">
+<a href="https://www.mediledger.com"><img src="mediledger.png" width="40%"></a>
 
 ## Open source protocol for decentralized SGTIN verification and GTIN ownership transfer
 
