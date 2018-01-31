@@ -1,4 +1,4 @@
-# Mediledger
+# MediLedger
 #### Open source protocol for decentralized SGTIN verification and GTIN ownership transfer
 
 * [Overview](https://github.com/chronicled/mediledger/blob/master/overview/README.md): Visit the overview page for a business and technical overview of the project. As a preview, the following diagram illustrates the various components and the flow to verify an SGTIN. The overview describes the components and the use cases.
@@ -14,7 +14,7 @@
 
 * GitHub repository: https://github.com/chronicled/mediledger
 
-* Mediledger website: https://www.mediledger.com
+* MediLedger website: https://www.mediledger.com
 
 ## License
-Copyright (c) 2018 Chronicled Inc All Rights Reserved
+Copyright (c) 2018 Chronicled Inc. All Rights Reserved
