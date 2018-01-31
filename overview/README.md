@@ -15,28 +15,30 @@ The MediLedger system enables an authorized requestor to check the authenticity 
 While every manufacturer maintains a serialized database with valid SGTINs, only few manufacturers track their shipments on an SGTIN-level.
 Some proposed solutions are:
 
-1. Distributors establish a local serialized database of received products.
-2. Manufacturers share shipped SGTINs with distributors (by means of EPCIS events).
-3. Manufacturers share their product repository with a centralized trusted third party.
+* Distributors establish a local serialized database of received products.
+* Manufacturers share shipped SGTINs with distributors (by means of EPCIS events).
+* Manufacturers share their product repository with a centralized trusted third party.
 
 In many cases these solutions are not feasable because they are incompatible with existing infrastructure.
 MediLedger solves the problem by connecting to the manufacturer's existing product repository in a secure and decentralized manner.
 
 The MediLegder solution provides following functions:
-1. Distributors can verify the returned products based on SGTIN, lot number and expiration date by connecting directly to the responsible party (manufacturer or repackager).
-2. The system is fast enough for a fully automated line.
-3. Manufacturers can commission, withdraw, and transfer ownership of GTINs.
+* Distributors can verify the returned products based on SGTIN, lot number and expiration date by connecting directly to the responsible party (manufacturer or repackager).
+* The system is fast enough for a fully automated line.
+* Manufacturers can commission, withdraw, and transfer ownership of GTINs.
 
 ## Solution Overview
 
 The MediLedger solution comprises of the following three key components:
-1. Blockchain: A private blockchain is used to store a lookup directory between a GTIN and a set of URLs. The URLs for a GTIN can be used to validate an SGTIN associated with the GTIN. The lookup directory is implemented using two smart contracts as described later.
-2. Client: The client serves as the interface between industry participants' internal systems and the blockchain. The clients also can interact with each other to query for the status of an SGTIN.
-3. Internal systems: These are the manufacturers' internal systems such as SAP and TraceLink. These store confidential information pertaining to the list of SGTINs manufactured by the manufacturer and can be used to verify a particular SGTIN.
+* Blockchain: A private blockchain is used to store a lookup directory between a GTIN and a set of URLs. The URLs for a GTIN can be used to validate an SGTIN associated with the GTIN. The lookup directory is implemented using two smart contracts as described later.
+* Client: The client serves as the interface between industry participants' internal systems and the blockchain. The clients also can interact with each other to query for the status of an SGTIN.
+* Internal systems: These are the manufacturers' internal systems such as SAP and TraceLink. These store confidential information pertaining to the list of SGTINs manufactured by the manufacturer and can be used to verify a particular SGTIN.
 
-The following diagram illustrates the three components as well as the flow of information in two key use cases: transfer of GTIN and validating an SGTIN.
+The following diagrams illustrate the three components as well as the flow of information in two key use cases:
 
-![Solution diagram](Design.png)
+![Validating a GTIN](validate-gtin.png)
+
+![Transferring a GTIN](transfer-gtin.png)
 
 #### Smart Contract
 
