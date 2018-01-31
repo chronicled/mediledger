@@ -22,7 +22,7 @@ Some proposed solutions are:
 In many cases these solutions are not feasable because they are incompatible with existing infrastructure.
 MediLedger solves the problem by connecting to the manufacturer's existing product repository in a secure and decentralized manner.
 
-The MediLegder solution provides following functions:
+The MediLedger solution provides following functions:
 * Distributors can verify the returned products based on SGTIN, lot number and expiration date by connecting directly to the responsible party (manufacturer or repackager).
 * The system is fast enough for a fully automated line.
 * Manufacturers can commission, withdraw, and transfer ownership of GTINs.
