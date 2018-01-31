@@ -67,8 +67,3 @@ This smart contract is used to define a directory of GTINs. For each GTIN, the d
 
 1. [MediLedger Website](https://www.mediledger.com/)
 2. [DSCSA](https://www.fda.gov/Drugs/DrugSafety/DrugIntegrityandSupplyChainSecurity/DrugSupplyChainSecurityAct/)
-
-
-## License
-
-Copyright (C) Chronicled Inc. This project may not be copied, reproduced, or modified without explicit permission of Chronicled. All rights reserved.
