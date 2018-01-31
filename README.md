@@ -9,3 +9,5 @@ Mediledger website: https://www.mediledger.com
 
 ### [Smart contracts](https://chronicled.github.io/mediledger/docs/CompanyDirectoryInterface/)
 
+## License
+Copyright (c) 2018 Chronicled Inc All Rights Reserved
