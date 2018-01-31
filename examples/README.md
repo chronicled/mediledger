@@ -4,7 +4,7 @@ The main functions of the smart contracts are illustrated below.
 1. [Creation of manufacturers ](1-Registering-Companies.md)
    Registering ABC Corp and XYZ Corp. Setting security certificates and verification service URLs for each company
 
-2. [Creation of GTINs](2-Creating-Gtins.md)
+2. [Creation of GTINs](2-Registering-Gtins.md)
    Creating GTINs and linking them to a verification service URL provided by ABC Corp
 
 3. [Verifying SGTINs](3-Gtin-Lookup.md)
