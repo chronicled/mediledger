@@ -6,9 +6,9 @@
 
 ## Documentation
 
-* [Smart contracts](https://chronicled.github.io/mediledger/docs/CompanyDirectoryInterface/)
+* [Smart contracts documentation](https://chronicled.github.io/mediledger/docs/CompanyDirectoryInterface/)
 
-* [Smart contracts usage example](https://github.com/chronicled/mediledger/blob/master/examples/README.md)
+* [Smart contracts usage examples](https://github.com/chronicled/mediledger/blob/master/examples/README.md)
 
 ## Useful Links
 
