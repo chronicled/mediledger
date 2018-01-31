@@ -1,8 +1,8 @@
 <a href="https://www.mediledger.com"><img src="mediledger.png" width="40%"></a>
 
-## Open source protocol for decentralized SGTIN verification and GTIN ownership transfer
+### Open source protocol for decentralized SGTIN verification and GTIN ownership transfer
 
-* [Overview](https://github.com/chronicled/mediledger/blob/master/overview/README.md): Visit the overview page for a business and technical overview of the project. As a preview, the following diagram illustrates the various components and the flow to verify an SGTIN. The overview describes the components and the use cases.
+[Visit the overview page](https://github.com/chronicled/mediledger/blob/master/overview/README.md) for a business and technical overview of the project. As a preview, the following diagram illustrates the various components and the flow to verify an SGTIN. The overview describes the components and the use cases.
 
 <a href="examples/3-Gtin-Lookup.md"><img src="overview/validate-gtin.png" width="60%"></a>
 
